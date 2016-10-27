@@ -3,6 +3,7 @@
 * [Introduction](README.md)
   * [Initial Document](manuscript/introduction/whole_document.md)
   * [The Big Goal](manuscript/introduction/the-big-goal.md)
+  * [Contributors](manuscript/introduction/contributors.md)
 * [Diversity Goals](manuscript/diversity-goals/diversity-goals.md)
 * [Code of Conduct](manuscript/code-of-conduct/code-of-conduct.md)
   * [Drupal Code of Conduct](manuscript/code-of-conduct/drupal-code-of-conduct.md)
