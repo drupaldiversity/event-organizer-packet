@@ -16,7 +16,3 @@
 * [Diversity Inclusion Strategies](manuscript/diversity-inclusion-strategies/diversity-inclusion-strategies.md)
 * [Communicating Inclusion](manuscript/communicating-inclusion/communicating-inclusion.md)
 * [Resources](manuscript/resources/resources.md)
-
-
-
-* [Initial](manuscript/whole_document.md)
