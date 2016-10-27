@@ -1,12 +1,28 @@
 {
+  "title": "DrupalCamp Organizer Inclusion Packet",
+  "description": "This document will serve as a general working space and collaboration platform for The Packet.",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": ["youtube"],
   "variables": {
-    "glossary": {},
+    "glossary": {
+      "drupal": "Drupal",
+      "git": "Git",
+      "vcs": "Version Control System",
+    },
     "chapters": {
       "whole_document": "Whole Document",
     },
     "sections": {},
-    "authors": {
-      "name": {},
-    }
+    "contributors": [
+        { "name": "drnikki" },
+        { "name": "yesct" },
+        { "name": "cleverington" }
+    ]
   }
 }
