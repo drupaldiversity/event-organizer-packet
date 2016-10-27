@@ -1,3 +1,5 @@
+# Introduction
+
 This document will serve as a general working space and collaboration platform for The Packet.
 
 Join the drupal slack #diversity-inclusion channel [https://www.drupal.org/community](https://www.drupal.org/community)
@@ -33,8 +35,6 @@ Contributors:
 * yesct
 
 * cleverington
-
-# Introduction
 
 # Diversity Goals
 
@@ -162,11 +162,7 @@ Participants should have a way to report when they have been made uncomfortable 
 
 * could camps provide *resources* for companies desiring to be more diverse in their hiring?
 
-# Summary
-
 # Resources
-
-Resources
 
 [https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) [http://www.ashedryden.com/blog/increasing-diversity-at-your-conference](http://www.ashedryden.com/blog/increasing-diversity-at-your-conference)
 
@@ -175,5 +171,3 @@ Resources
 [http://yesct.net/making-midcamp-accessible](http://yesct.net/making-midcamp-accessible)
 
 [https://twitter.com/fox/status/774142270966632448](https://twitter.com/fox/status/774142270966632448) A bunch of really useful resources and link about diversity for conference organisers. [http://diversitycharter.org](http://diversitycharter.org)
-
-# Glossary

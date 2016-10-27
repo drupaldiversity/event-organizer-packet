@@ -21,3 +21,11 @@ If the images are in a directory, add the directory:
 ```
 
 Be Accessible. Remember the Alt-Text!
+
+### Adding YouTube Videos
+
+```
+take a look at this video:
+
+{% youtube %}https://www.youtube.com/watch?v=oHg5SJYRHA0{% endyoutube %}
+```
