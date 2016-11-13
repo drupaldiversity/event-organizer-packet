@@ -20,4 +20,4 @@ This complete statement should include:
 
 Source documents:
 
-* http:\/\/jlovecalderon.com\/code-of-ethics-for-antiracist-white-allies\/
+* http://jlovecalderon.com/code-of-ethics-for-antiracist-white-allies/
