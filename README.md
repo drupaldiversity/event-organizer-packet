@@ -2,7 +2,7 @@
 
 ## Contributions
 
-If you wish to Contribute to the Drupal Event Organizer Packet, please see the [Contributions](../contributions.md "Contributions")
+If you wish to Contribute to the Drupal Event Organizer Packet, please see the [Contributors Reference](contributors.md "Contributors Reference") page.
 
 
 # Table of Contents
