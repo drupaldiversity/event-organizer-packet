@@ -31,7 +31,7 @@ When adding new pages to the 'Book', they need to be updated in the [SUMMARY.md]
 If the images are in a directory, add the directory:
 
 ```
-![Druplicon](../images/random-directory/druplicon-small.png "Druplicon")
+![Druplicon](images/random-directory/druplicon-small.png "Druplicon")
 ```
 
 Be Accessible. Remember the Alt-Text!
