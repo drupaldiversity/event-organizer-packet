@@ -1,41 +1,9 @@
 # Organizer Resources
 
-## Initial Notes to Contribute
+## Contributions
 
-When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ "GitHub Flavored Markdown").
+If you wish to Contribute to the Drupal Event Organizer Packet, please see the [Contributions](../contributions.md "Contributions")
 
-[Using GitBook | GitBook Toolchain Documentation](https://toolchain.gitbook.com/ "GitBook Toolchain Documentation")
-
-### Including 'New' Pages
-
-When adding new pages to the 'Book', they need to be updated in the [SUMMARY.md](SUMMARY.md "SUMMARY.md")
- file in order to be recognized by GitBook.
-
-### Creating Links
-```
-[https://www.drupal.org/community](https://www.drupal.org/community "Title Text")
-```
-
-### Adding Images
-```
-![Druplicon](../images/druplicon-small.png "Druplicon")
-```
-
-If the images are in a directory, add the directory:
-
-```
-![Druplicon](../images/random-directory/druplicon-small.png "Druplicon")
-```
-
-Be Accessible. Remember the Alt-Text!
-
-### Adding YouTube Videos
-
-```
-take a look at this video:
-
-{% youtube %}https://www.youtube.com/watch?v=oHg5SJYRHA0{% endyoutube %}
-```
 
 # Table of Contents
 
