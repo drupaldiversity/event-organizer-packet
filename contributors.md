@@ -9,6 +9,8 @@ When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.
 
 Editing current pages can be done using MarkDown via GitHub or Git by submitting Pull Requests.
 
+![Contribution Edit Link](../images/contribution-edit-link.png "Contribution Edit Link")
+
 Authorized Contributers added into the @drupal-diversity Organization on GitBook can use the In-Browser editing feature for existing pages live here: [Drupal Developer Resources - In-Browser Editing](https://www.gitbook.com/book/drupal-diversity/drupal-organizer-resources/edit#/edit/master/README.md?_k=9owlcs "Drupal Developer Resources - In-Browser Editing")
 
 ### Including 'New' Pages
