@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Initial Document](manuscript/introduction/whole_document.md)
   * [The Big Goal](manuscript/introduction/the-big-goal.md)
   * [Contributors](manuscript/introduction/contributors.md)
 * [Diversity Goals](manuscript/diversity-goals/diversity-goals.md)

@@ -8,7 +8,6 @@ If you wish to Contribute to the Drupal Event Organizer Packet, please see the [
 # Table of Contents
 
 * [Introduction](README.md)
-  * [Initial Document](manuscript/introduction/whole_document.md)
   * [The Big Goal](manuscript/introduction/the-big-goal.md)
 * [Diversity Goals](manuscript/diversity-goals/diversity-goals.md)
 * [Code of Conduct](manuscript/code-of-conduct/code-of-conduct.md)
