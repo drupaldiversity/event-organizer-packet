@@ -1,3 +1,7 @@
 # Keeping thoughts and notes out of the online book.
 # Not to mention PHPStorm's settings
 *.idea/
+
+# Keeping the local GitBook testing out of the online book.
+_book/
+node_modules/

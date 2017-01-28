@@ -1,4 +1,4 @@
-# Introduction
+# {{ book.chapters.introduction }}
 
 This document will serve as a general working space and collaboration platform for The Packet.
 
