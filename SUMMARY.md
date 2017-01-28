@@ -1,7 +1,7 @@
 # Summary
 
 * [1.0 - Organizer Resource Packet](README.md)
-  * * [1.1 - Introduction](/manuscript/introduction/introduction.md)
+  * [1.1 - Introduction](/manuscript/introduction/introduction.md)
     * [1.2 - The Big Goal](manuscript/introduction/the-big-goal.md)
     * [1.3 - Contributors](manuscript/introduction/contributors.md)
       * [1.3.1 - Template Examples for Contributors](/manuscript/introduction/markdown-templates.md)
@@ -18,6 +18,3 @@
 * [5.0 - Diversity Inclusion Strategies](manuscript/diversity-inclusion-strategies/diversity-inclusion-strategies.md)
 * [6.0 - Communicating Inclusion](manuscript/communicating-inclusion/communicating-inclusion.md)
 * [7.0 - Resources](manuscript/resources/resources.md)
-
-
-
