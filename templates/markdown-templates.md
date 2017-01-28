@@ -21,11 +21,11 @@
 
 
 
- <!-- The first thing in the file is an ID: replace the text in the brackets below
+ <!-- The first thing in the file is Page Title: generally also the name of the file
  so that it matches the name of the file (without the .md extension; for
- example, {{ block-overview }} if the file name is block-overview.md. -->
+ example, Block Overview if the file name is block-overview.md. -->
 
-# {{ id-goes-here }}
+# Page Title Goes Here
  <!-- The topic title goes on this line. Use "Title Case" for topic titles.
  Titles for Concept topics should start with "Concept: ", like this
  # Concept: .... -->
