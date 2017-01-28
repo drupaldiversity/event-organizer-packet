@@ -4,7 +4,7 @@
   * * [1.1 - Introduction](/manuscript/introduction/introduction.md)
     * [1.2 - The Big Goal](manuscript/introduction/the-big-goal.md)
     * [1.3 - Contributors](manuscript/introduction/contributors.md)
-      * [1.3.1 - Template Examples for Contributors](/templates/markdown-templates.md)
+      * [1.3.1 - Template Examples for Contributors](/manuscript/introduction/markdown-templates.md)
 * [2.0 - Diversity Goals](manuscript/diversity-goals/diversity-goals.md)
 * [3.0 - Code of Conduct](manuscript/code-of-conduct/code-of-conduct.md)
   * [3.1 - Drupal Code of Conduct](manuscript/code-of-conduct/drupal-code-of-conduct.md)
