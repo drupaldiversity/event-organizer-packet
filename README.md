@@ -4,13 +4,13 @@
 
 If you wish to Contribute to the Drupal Event Organizer Packet, please see the [Contributors Reference](contributors.md "Contributors Reference") page.
 
-
 # Table of Contents
 
 * [1.0 - Organizer Resource Packet](README.md)
-  * [1.1 - Introduction](manuscript/introduction/the-big-goal.md)
+  * [1.1 - Introduction](/manuscript/introduction/introduction.md)
   * [1.2 - The Big Goal](manuscript/introduction/the-big-goal.md)
   * [1.3 - Contributors](manuscript/introduction/contributors.md)
+    * [1.3.1 - Template Examples for Contributors](/templates/markdown-templates.md)
 * [2.0 - Diversity Goals](manuscript/diversity-goals/diversity-goals.md)
 * [3.0 - Code of Conduct](manuscript/code-of-conduct/code-of-conduct.md)
   * [3.1 - Drupal Code of Conduct](manuscript/code-of-conduct/drupal-code-of-conduct.md)
@@ -25,4 +25,5 @@ If you wish to Contribute to the Drupal Event Organizer Packet, please see the [
 * [6.0 - Communicating Inclusion](manuscript/communicating-inclusion/communicating-inclusion.md)
 * [7.0 - Resources](manuscript/resources/resources.md)
 
-*Most up-to-date TOC can always be found on the SUMMARY.md*
+_Most up-to-date TOC can always be found on the SUMMARY.md_
+

@@ -9,22 +9,24 @@ When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.
 
 #### Writers
 
-{% for writers in book.contributors %}
-  - {{ writers }}
-{% endfor %}
+- drnikki
+- yesct
+- cleverington
+- bradleyfields
 
 #### Editors
 
-{% for editors in book.contributors %}
-  - {{ editors }}
-{% endfor %}
-
+- cottser
+- drnikki
+- yesct
+- cleverington
+- sugaroverflow
 
 ### Editing
 
 Editing current pages can be done using MarkDown via GitHub or Git by submitting Pull Requests.
 
-![Contribution Edit Link](../images/contribution-edit-link.png "Contribution Edit Link")
+![Contribution Edit Link](../../images/contribution-edit-link.png "Contribution Edit Link")
 
 Authorized Contributors added into the @drupal-diversity Organization on GitBook can use the In-Browser editing feature for existing pages live here: [Drupal Developer Resources - In-Browser Editing](https://www.gitbook.com/book/drupal-diversity/drupal-organizer-resources/edit#/edit/master/README.md?_k=9owlcs "Drupal Developer Resources - In-Browser Editing")
 
@@ -67,6 +69,8 @@ When adding new pages to the 'Book', they need to be updated in the [SUMMARY.md]
 ```
 
 If the images are in a directory, add the directory:
+
+At times, the image may fail to load, even if deployed properly. Simply submit an issue requesting image correction and we can help link it.
 
 ```
 ![Druplicon](../images/random-directory/druplicon-small.png "Druplicon")
