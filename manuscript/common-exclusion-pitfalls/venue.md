@@ -26,13 +26,13 @@ When choosing Venues, especially for Event locations, try and ensure buildings m
 ## Services and Amenities
   * Food
     * Label everything. Include ingredients.
-    * Prefer assemblable food (where each ingredient is labeled, and people pick which to combine). Example: baked potato and topings, tacos, salads
-  * Quite room
+    * Prefer assemblable food (where each ingredient is labeled, and people pick which to combine). Example: baked potato and toppings, tacos, salads
+  * Quiet room
   * Speaker room
   * Loud room (like for kids or game playing)
   * Childcare
-  * Private space with refrigeration for pumping breastmilk or dealing with mediation
-  * Translation
+  * Private space with refrigeration for pumping breastmilk or dealing with medication
+  * Translation and interpreting
     * Verbal
     * ASL
   * Live captioning
