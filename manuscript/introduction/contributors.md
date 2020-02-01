@@ -9,6 +9,7 @@ When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.
 
 #### Writers
 
+- alannaburke
 - drnikki
 - yesct
 - cleverington
@@ -24,11 +25,11 @@ When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.
 
 ### Editing
 
-Editing current pages can be done using MarkDown via GitHub or Git by submitting Pull Requests.
+Editing current pages can be done using MarkDown via GitHub or Git by submitting pull requests.
 
 ![Contribution Edit Link](../../images/contribution-edit-link.png "Contribution Edit Link")
 
-Authorized Contributors added into the @drupal-diversity Organization on GitBook can use the In-Browser editing feature for existing pages live here: [Drupal Developer Resources - In-Browser Editing](https://www.gitbook.com/book/drupal-diversity/drupal-organizer-resources/edit#/edit/master/README.md?_k=9owlcs "Drupal Developer Resources - In-Browser Editing")
+Authorized contributors added into the @drupal-diversity organization on GitBook can use the in-browser editing feature for existing pages live here: [Drupal Developer Resources - In-Browser Editing](https://www.gitbook.com/book/drupal-diversity/drupal-organizer-resources/edit#/edit/master/README.md?_k=9owlcs "Drupal Developer Resources - In-Browser Editing")
 
 ### Copy-Edit Guidelines
 
@@ -36,7 +37,7 @@ The Drupal Documentation Team recently published the Drupal 8 User's Guide and t
 
 See the definitions of Writer and Editor in the GLOSSARY.md.
 
-#### This eBook will follow the Guidelines outlined in the Style Guid
+#### This eBook will follow the guidelines outlined in the Style Guide
 
 - [Drupal.org/docs: User Guide Contributor Guidelines](https://www.drupal.org/docs/user_guide_guidelines/index.html "User Guide Contributor Guidelines")
 - [Drupal.org/docs: User Guide Contributor Guidelines - Preface](https://www.drupal.org/docs/user_guide_guidelines/preface.html "User Guide Contributor Guidelines - Preface")
@@ -49,9 +50,9 @@ See the definitions of Writer and Editor in the GLOSSARY.md.
 - [Drupal 8 User Guide - 2.1. Concept: Regions in a Theme](https://www.drupal.org/docs/user_guide/en/block-regions.html "Drupal 8 User Guide - 2.5. Planning your Content Structure")
 - [Drupal 8 User Guide - 2.5. Planning your Content Structure](https://www.drupal.org/docs/user_guide/en/planning-structure.html "Drupal 8 User Guide - 2.5. Planning your Content Structure")
 
-**Note** - Though following the Guidelines, we will be using GitHub Flavored Markdown (as noted above) instead of ASCII-DOC (as used by the Drupal Documentation Team).
+**Note** - Though following the above guidelines, we will be using GitHub-flavored Markdown (as noted above) instead of ASCII-DOC (as used by the Drupal Documentation Team).
 
-The Style Guide created for the Drupal 8 User's Guide was loosely based on the *Drupal.org* Style Guide, available at https://www.drupal.org/drupalorg/style-guide/content.
+The style guide created for the Drupal 8 User's Guide was loosely based on the *Drupal.org* style guide, available at https://www.drupal.org/drupalorg/style-guide/content.
 
 ### Including 'New' Pages
 
@@ -70,7 +71,7 @@ When adding new pages to the 'Book', they need to be updated in the [SUMMARY.md]
 
 If the images are in a directory, add the directory:
 
-At times, the image may fail to load, even if deployed properly. Simply submit an issue requesting image correction and we can help link it.
+At times, the image may fail to load, even if deployed properly. Submit an issue requesting image correction and we can help link it.
 
 ```
 ![Druplicon](../images/random-directory/druplicon-small.png "Druplicon")
@@ -81,7 +82,7 @@ Be Accessible. Remember the Alt-Text!
 ### Adding YouTube Videos
 
 ```
-take a look at this video:
+Take a look at this video:
 
 {% youtube %}https://www.youtube.com/watch?v=oHg5SJYRHA0{% endyoutube %}
 ```

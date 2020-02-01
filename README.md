@@ -2,7 +2,7 @@
 
 ## Contributions
 
-If you wish to Contribute to the Drupal Event Organizer Packet, please see the [Contributors Reference](contributors.md "Contributors Reference") page.
+If you wish to contribute to the Drupal Event Organizer Packet, please see the [Contributors Reference](contributors.md "Contributors Reference") page.
 
 # Table of Contents
 
@@ -25,5 +25,5 @@ If you wish to Contribute to the Drupal Event Organizer Packet, please see the [
 * [6.0 - Communicating Inclusion](manuscript/communicating-inclusion/communicating-inclusion.md)
 * [7.0 - Resources](manuscript/resources/resources.md)
 
-_Most up-to-date TOC can always be found on the SUMMARY.md_
+_Most up-to-date Table of Contents can always be found in the SUMMARY.md_
 

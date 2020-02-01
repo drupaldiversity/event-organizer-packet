@@ -14,7 +14,7 @@ The Drupal Code of Conduct ([https://www.drupal.org/dcoc](https://www.drupal.org
 
 6. [Step down considerately.](https://www.drupal.org/dcoc#stepping-down)
 
-The Drupal Code of Conduct is a great start for establishing a solid behavioral standard for the Drupal Community. As Event Organizers running a Drupal Camp or Event, further steps should be taken to *actively* promote Diversity within your Camp’s Code of Conduct.
+The Drupal Code of Conduct is a great start for establishing a solid behavioral standard for the Drupal Community. As event organizers running a Drupal camp or event, further steps should be taken to *actively* promote diversity within your camp’s Code of Conduct.
 
 Remind everyone why they
 

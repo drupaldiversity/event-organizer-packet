@@ -8,13 +8,13 @@ Like a code of conduct for attendees, a code of diversity _\(name needs work\)_ 
 
 This complete statement should include:
 
-* an acknowledgement of the systemic inequalities in the wider technology community
+* An acknowledgement of the systemic inequalities in the wider technology community.
 
-* a demonstrated understanding that even with good intentions, unexamined biases can make events exclusionary and homogenous
+* A demonstrated understanding that even with good intentions, unexamined biases can make events exclusionary and homogenous.
 
-* a commitment to considering the implications on diversity and inclusion at every major event organization milestone
+* A commitment to considering the implications on diversity and inclusion at every major event organization milestone.
 
-* a commitment to making the event content, venue, post-mortem and social spaces as inclusive and diverse as possible
+* A commitment to making the event content, venue, post-mortem and social spaces as inclusive and diverse as possible.
 
 \[ We should provide a sample statement here \]
 
