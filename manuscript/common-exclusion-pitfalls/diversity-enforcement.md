@@ -10,4 +10,4 @@ Be overly communicative about your code of conduct. Let attendees know about it 
 
 Make sure that the people you designate to receive code of conduct reports have been trained to receive them. [Sage Sharp of Otter Technology](https://otter.technology/) does a great training. Also, have more than one person designated to receive reports, preferably of different genders/backgrounds. This way, attendees will be able to choose the person they feel most comfortable with to speak to should the need arise. 
 
-Encourage speakers to include a slide about the code of conduct in their deck. 
+Encourage speakers to include a slide about the code of conduct and points of contact in their deck. 
