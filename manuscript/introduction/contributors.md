@@ -1,28 +1,3 @@
-
-## Initial Notes to Contribute
-
-When adding documents, be sure to use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/ "GitHub Flavored Markdown").
-
-[Using GitBook | GitBook Toolchain Documentation](https://toolchain.gitbook.com/ "GitBook Toolchain Documentation")
-
-### Contributors
-
-#### Writers
-
-- alannaburke
-- drnikki
-- yesct
-- cleverington
-- bradleyfields
-
-#### Editors
-
-- cottser## Initial Notes to Contribute
-
-Use [GitHub Flavored Markdown] when adding documents:(https://guides.github.com/features/mastering-markdown/ "GitHub Flavored Markdown").
-
-[Using GitBook | GitBook Toolchain Documentation](https://toolchain.gitbook.com/ "GitBook Toolchain Documentation")
-
 ### Contributors
 
 #### Writers
