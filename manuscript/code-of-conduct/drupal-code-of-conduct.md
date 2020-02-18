@@ -1,6 +1,6 @@
 # Drupal Code of Conduct
 
-The Drupal Code of Conduct ([https://www.drupal.org/dcoc](https://www.drupal.org/dcoc)) defines the shared ideals of the Drupal Community for the people within the Community.   
+The Drupal Code of Conduct ([https://www.drupal.org/dcoc](https://www.drupal.org/dcoc)) defines the shared ideals of the Drupal Community. 
 
 1. [Be considerate.](https://www.drupal.org/dcoc#consideration)
 
@@ -14,8 +14,9 @@ The Drupal Code of Conduct ([https://www.drupal.org/dcoc](https://www.drupal.org
 
 6. [Step down considerately.](https://www.drupal.org/dcoc#stepping-down)
 
-The Drupal Code of Conduct is a great start for establishing a solid behavioral standard for the Drupal Community. As Event Organizers running a Drupal Camp or Event, further steps should be taken to *actively* promote Diversity within your Camp’s Code of Conduct.
+The Drupal Code of Conduct is a great start for establishing a solid behavioral standard for the Drupal Community. As event organizers running a Drupal camp or event, take further steps.  *Actively* promote diversity within your camp’s Code of Conduct.
 
-Remind everyone why they
-
+Remind everyone why they:
+ 
 **Come for the software, stay for the community.**
+

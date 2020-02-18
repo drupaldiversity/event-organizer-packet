@@ -1,5 +1,11 @@
 # Diversity Goals
 
-As with all projects and activities, setting goals up front assists in helping Event Contributors (Organizers, Volunteers, etc.) when making decisions affecting the overall event.
+Setting goals upfront helps event organizers when making decisions affecting the event.
 
 ## Example Diversity Goals
+
+* This year, 25% of our speakers will come from an underrepresented group. 
+
+* This year, we will reserve 3 spots for new speakers. 
+
+* This year, we will increase all recorded attendee diversity over last year. 
